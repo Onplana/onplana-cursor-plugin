@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40">
-  <!-- Triple chevron icon mark -->
-  <path d="M8 8L18 20L8 32" fill="none" stroke="#2563EB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.15"/>
-  <path d="M16 8L26 20L16 32" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.4"/>
-  <path d="M24 8L34 20L24 32" fill="none" stroke="#2563EB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Onplana">
+  <!-- Onplana square logo: rounded plate + triple-chevron mark in Electric Blue #2563EB -->
+  <rect width="64" height="64" rx="14" fill="#FFFFFF"/>
+  <path d="M16 18L28 32L16 46" fill="none" stroke="#2563EB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.2"/>
+  <path d="M25 18L37 32L25 46" fill="none" stroke="#2563EB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.5"/>
+  <path d="M34 18L46 32L34 46" fill="none" stroke="#2563EB" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

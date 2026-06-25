@@ -1,0 +1,27 @@
+{
+  "name": "onplana",
+  "displayName": "Onplana",
+  "version": "0.1.0",
+  "description": "Connect Cursor to Onplana, the AI-native project & portfolio management platform and Microsoft Project Online successor. 247 tools for projects, tasks, sprints, epics, milestones, risks, governance, timesheets, and EVM.",
+  "author": {
+    "name": "Onplana (Devsoft Solutions)",
+    "email": "support@onplana.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "project management",
+    "portfolio",
+    "PPM",
+    "Microsoft Project",
+    "project online migration",
+    "tasks",
+    "sprints",
+    "agile",
+    "governance",
+    "EVM",
+    "cursor",
+    "mcp"
+  ],
+  "homepage": "https://github.com/Onplana/onplana-cursor-plugin",
+  "logo": "assets/logo.svg"
+}

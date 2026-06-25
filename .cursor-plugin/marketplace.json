@@ -1,0 +1,18 @@
+{
+  "name": "onplana",
+  "owner": {
+    "name": "Onplana (Devsoft Solutions)",
+    "email": "support@onplana.com"
+  },
+  "metadata": {
+    "description": "Onplana Cursor plugin: the Onplana MCP server (247 tools) plus a skill that teaches Cursor how to drive project & portfolio management.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "onplana",
+      "source": ".",
+      "description": "Connect Cursor to Onplana for AI-native project & portfolio management (Microsoft Project Online successor)."
+    }
+  ]
+}

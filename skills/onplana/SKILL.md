@@ -1,6 +1,6 @@
 ---
 name: onplana-project-management
-description: Plan, track, and report on projects, sprints, and portfolios in Onplana (an AI-native project & portfolio management platform, and the Microsoft Project Online successor) over its MCP server. Use when the user asks to create or break down a project, plan sprints/epics/milestones, check status or Earned Value (EVM), run risk analysis, log or review timesheets, or move a proposal through governance. Realistic triggers: "set up a project in Onplana", "break this spec into tasks and a sprint", "what's at risk on the Atlas project?", "show EVM / status for my portfolio", "log 3 hours to the migration task".
+description: "Plan, track, and report on projects, sprints, and portfolios in Onplana (an AI-native project & portfolio management platform, and the Microsoft Project Online successor) over its MCP server. Use when the user asks to create or break down a project, plan sprints/epics/milestones, check status or Earned Value (EVM), run risk analysis, log or review timesheets, or move a proposal through governance. Realistic triggers: 'set up a project in Onplana', 'break this spec into tasks and a sprint', 'what's at risk on the Atlas project?', 'show EVM / status for my portfolio', 'log 3 hours to the migration task'."
 ---
 
 # Onplana project & portfolio management
